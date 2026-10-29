@@ -12,7 +12,7 @@ Becario de investigación en el CIUDA · Busco mi primera experiencia laboral
 
 <br>
 
-<img src="space.svg" width="100%" alt="Nave espacial en pixel art" />
+<img src="space.svg?v=141c265" width="100%" alt="Nave espacial en pixel art" />
 
 <br>
 
