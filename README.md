@@ -8,7 +8,7 @@
 	</picture>
 
 Estudiante de la Licenciatura en Desarrollo de Software e Informática — Universidad del Aconcagua<br>
-Becario de investigación en el CIUDA · Busco empleo como desarrollador
+Becario de investigación en el CIUDA · Busco mi primera experiencia laboral
 
 <br>
 
