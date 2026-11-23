@@ -34,7 +34,9 @@ Becario de investigación en el CIUDA · Busco mi primera experiencia laboral
 
 ### Proyectos destacados
 
-Próximamente
+**[nona-studio](https://github.com/pedroA37/nona-studio)**: proyecto de estudio.
+
+**Embers Remain**: RPG 2D en Godot 4 hecho con agentes de IA (Claude Code), con guion, mecánicas y dirección de arte propios.
 
 </div>
 
